@@ -6,13 +6,14 @@ This project demonstrates the use of the `react-fast-marquee` library in a React
 
 1.  **Clone the repository:**
 
-    ```bash
+    ```
     git clone <repository_url>
     ```
 
 2.  **Navigate to the project directory:**
 
-    ```bash
+    ```
+    
     cd <project_directory>
     ```
 
@@ -55,7 +56,7 @@ function App() {
   return (
     <>
       <Marquee gradient={false} speed={100}>
-        🚀 Welcome to my Infinite Marquee Text! 🎉 Enjoy smooth scrolling effects! ✨
+         Welcome to my Infinite Marquee Text! Enjoy smooth scrolling effects! 
       </Marquee>
     </>
   );
